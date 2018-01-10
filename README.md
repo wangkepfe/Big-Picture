@@ -20,6 +20,10 @@ raw images:
 ![alt text](https://github.com/wangkepfe/Computer-Vision-Project-2/blob/master/source/p4.JPG "Title")
 ![alt text](https://github.com/wangkepfe/Computer-Vision-Project-2/blob/master/source/p5.JPG "Title")
 
+homography matching:
+
+![alt text](https://github.com/wangkepfe/Computer-Vision-Project-2/blob/master/match/match_1_2.jpg "Title")
+
 result:
 
 ![alt text](https://github.com/wangkepfe/Computer-Vision-Project-2/blob/master/result.jpg "Title")
