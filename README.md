@@ -12,10 +12,15 @@
 3. Image Rotation
    * rotate the image by a homography
 
-![alt text](https://github.com/wangkepfe/Computer-Vision-Project-2/blob/master/source/p1.JPG "Title")
+raw images:
 
-<img src="https://github.com/wangkepfe/Computer-Vision-Project-2/blob/master/source/p2.JPG" width="80"/>
-<img src="https://github.com/wangkepfe/Computer-Vision-Project-2/blob/master/source/p3.JPG" width="80"/>
-<img src="https://github.com/wangkepfe/Computer-Vision-Project-2/blob/master/source/p4.JPG" width="80"/>
-<img src="https://github.com/wangkepfe/Computer-Vision-Project-2/blob/master/source/p5.JPG" width="80"/>
-<img src="https://github.com/wangkepfe/Computer-Vision-Project-2/blob/master/result.jpg" width="400"/>
+![alt text](https://github.com/wangkepfe/Computer-Vision-Project-2/blob/master/source/p1.JPG "Title")
+![alt text](https://github.com/wangkepfe/Computer-Vision-Project-2/blob/master/source/p2.JPG "Title")
+![alt text](https://github.com/wangkepfe/Computer-Vision-Project-2/blob/master/source/p3.JPG "Title")
+![alt text](https://github.com/wangkepfe/Computer-Vision-Project-2/blob/master/source/p4.JPG "Title")
+![alt text](https://github.com/wangkepfe/Computer-Vision-Project-2/blob/master/source/p5.JPG "Title")
+
+result:
+
+![alt text](https://github.com/wangkepfe/Computer-Vision-Project-2/blob/master/result.jpg "Title")
+
